@@ -1,1 +1,47 @@
-readme
+# Projeto Databricks - Ingestão e Transformação de Dados
+
+## Descrição do Projeto
+Este projeto foi desenvolvido no Databricks usando **PySpark** e **Spark SQL**.  
+O objetivo foi **criar, filtrar e transformar dados de clientes** diretamente no notebook, demonstrando habilidades práticas em ETL.
+
+## Contexto e Problema de Negócio
+Organizações frequentemente precisam transformar dados brutos em informações limpas para análise.  
+Neste projeto, simulei uma base de clientes e apliquei filtros para selecionar aqueles com **renda mensal maior que 3000**, preparando os dados para análise futura.
+
+## Objetivos
+- Criar dataset fictício de clientes no Databricks  
+- Aplicar filtros e transformações com PySpark e Spark SQL  
+- Visualizar dados antes e depois da transformação  
+- Documentar o processo para portfólio e apresentação
+
+## Tecnologias e Ferramentas Utilizadas
+- Databricks  
+- PySpark  
+- Spark SQL  
+- Python  
+
+## Passos do Projeto
+1️⃣ **Criação do Dataset**  
+- Gerar uma pequena lista de clientes diretamente em Python/PySpark  
+
+2️⃣ **Transformação de Dados**  
+- Aplicar filtro: renda > 3000  
+- Visualizar dados antes e depois da transformação  
+
+3️⃣ **Documentação e Imagens**  
+- Capturar prints do notebook para registro  
+
+## Imagens
+1. `imagens/base_clientes_importada.png` – base original dos clientes  
+2. `imagens/clientes_filtrados_transformados.png` – base filtrada (renda > 3000)  
+
+## Aprendizado
+- Manipulação de dados com PySpark  
+- Filtragem e transformação de tabelas  
+- Criação de dataset fictício para prática de ETL  
+- Preparação de dados para análise  
+
+## Autor
+**Leticia Gama de Souza**  
+- [LinkedIn](https://www.linkedin.com/in/leticia-gama-code)  
+- [GitHub](https://github.com/LeticiaGama-dev)  
